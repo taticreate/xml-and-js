@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Evaluation2</title>
+</head>
+
+<body>
+    <main>
+        <form action="confirm.html" method="get">
+            <div>
+                <label for="email_address">E-Mail:*</label>
+                <input type="text" name="email_address" id="email_address">
+                
+            </div>
+            <div>
+                <label for="date">Date of Visit:</label>
+                <input type="date" name="date" id="date" value="mm/dd/yyyy">
+                
+            </div>
+            <div>
+                Your Comment:</br>
+                <textarea rows="10" cols="50" name="comment" id="comment"></textarea>
+            </div>
+                
+                <input type="button" onclick="buttonFunction()" id="register" value="Send your Feedback">
+                
+            </div>
+
+        </form>
+
+        <h3 id="summary"></h3>
+    </main>
+    <style>
+        form {
+            background-color:lightyellow;
+        }
+    </style>
+    <script src="evaluation-2-tati.js"></script>
+</body>
+</html>
