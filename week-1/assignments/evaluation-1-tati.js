@@ -1,4 +1,4 @@
 function buttonFunction() {
-    var x = document.getElementById("button").name;
+    let x = document.getElementById("button").name;
     document.getElementById("printname").innerHTML = x;
 }
