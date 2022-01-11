@@ -4,44 +4,44 @@
   <date> Jan 31, 2018 </date>
     <people>
       <person1>
-      <name></name>
-      <interest></interest>
-    </person1>
-    <person2>
       <name>Tati</name>
       <interest>Tennis</interest>
+    </person1>
+    <person2>
+      <name>Brittney</name>
+      <interest>Singing</interest>
     </person2>
     <person3>
-      <name></name>
-      <interest></interest>
+      <name>Jane</name>
+      <interest>Hiking</interest>
     </person3>
     <person4>
-      <name></name>
-      <interest></interest>
+      <name>Anna</name>
+      <interest>Dance</interest>
     </person4>
     <person5>
-      <name></name>
-      <interest></interest>
+      <name>Sofia</name>
+      <interest>Reading</interest>
     </person5>
     <person6>
-      <name></name>
-      <interest></interest>
+      <name>Jay</name>
+      <interest>Cooking</interest>
     </person6>
     <person7>
-      <name></name>
-      <interest></interest>
+      <name>Mary</name>
+      <interest>Basketball</interest>
     </person7>
     <person8>
-      <name></name>
-      <interest></interest>
+      <name>Nana</name>
+      <interest>Shopping</interest>
     </person8>
     <person9>
-      <name></name>
-      <interest></interest>
+      <name>Grace</name>
+      <interest>Design</interest>
     </person9>
     <person10>
-      <name></name>
-      <interest></interest>
+      <name>Karen</name>
+      <interest>Boating</interest>
     </person10>
   </people>
 </myMessage>
