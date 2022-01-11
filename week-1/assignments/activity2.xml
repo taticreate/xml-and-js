@@ -1,18 +1,33 @@
-<table border="1"> 
-	<tr><th>Empno</th><th>Empname</th><th>Salary</th></tr>
-	<tr>
-		<td>1001</td>  
-		<td>Alex</td>  
-		<td>3000</td>  
-	</tr> 
-	<tr>
-		<td>1002</td>  
-		<td>Sarah</td>  
-		<td>4000</td>  
-	</tr> 
-	<tr>
-		<td>1003</td>  
-		<td>Peter</td>  
-		<td>3500</td>  
-	</tr> 
-</table>
+<?xml version="1.0" encoding="utf-8"?>
+<employees_table border="1">
+	
+    <employee1>
+	    
+        <EmpNo>1001</EmpNo>
+	    
+        <Empname>Alex</Empname>
+	    
+        <Salary>3000</Salary>
+	    
+    </employee1>
+    <employee2>
+	    
+        <EmpNo>1002</EmpNo>
+	    
+        <Empname>Sarah</Empname>
+	    
+        <Salary>4000</Salary>
+	    
+    </employee2>
+	
+    <employee3>
+	    
+        <EmpNo>1003</EmpNo>
+	    
+        <Empname>Peter</Empname>
+	    
+        <Salary>3500</Salary>
+	    
+    </employee3>
+	
+</employees_table>
