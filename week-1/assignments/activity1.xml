@@ -2,6 +2,46 @@
 <myMessage>
   <subject> This is a welcome message </subject>
   <date> Jan 31, 2018 </date>
-  <name></name>
-  <interest></interest>
+    <people>
+      <person1>
+      <name></name>
+      <interest></interest>
+    </person1>
+    <person2>
+      <name>Tati</name>
+      <interest>Tennis</interest>
+    </person2>
+    <person3>
+      <name></name>
+      <interest></interest>
+    </person3>
+    <person4>
+      <name></name>
+      <interest></interest>
+    </person4>
+    <person5>
+      <name></name>
+      <interest></interest>
+    </person5>
+    <person6>
+      <name></name>
+      <interest></interest>
+    </person6>
+    <person7>
+      <name></name>
+      <interest></interest>
+    </person7>
+    <person8>
+      <name></name>
+      <interest></interest>
+    </person8>
+    <person9>
+      <name></name>
+      <interest></interest>
+    </person9>
+    <person10>
+      <name></name>
+      <interest></interest>
+    </person10>
+  </people>
 </myMessage>
