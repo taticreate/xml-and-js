@@ -1,7 +1,18 @@
-<table> 
-	<tr> 
-		<td></td>  
-		<td></td>  
-		<td></td>  
+<table border="1"> 
+	<tr><th>Empno</th><th>Empname</th><th>Salary</th></tr>
+	<tr>
+		<td>1001</td>  
+		<td>Alex</td>  
+		<td>3000</td>  
+	</tr> 
+	<tr>
+		<td>1002</td>  
+		<td>Sarah</td>  
+		<td>4000</td>  
+	</tr> 
+	<tr>
+		<td>1003</td>  
+		<td>Peter</td>  
+		<td>3500</td>  
 	</tr> 
 </table>
