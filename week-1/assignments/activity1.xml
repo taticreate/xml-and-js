@@ -2,4 +2,6 @@
 <myMessage>
   <subject> This is a welcome message </subject>
   <date> Jan 31, 2018 </date>
+  <name></name>
+  <interest></interest>
 </myMessage>
